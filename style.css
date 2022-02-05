@@ -1,9 +1,37 @@
+.cuerpo {
+ background-color: #eae6df;
+ font-family: 'Roboto Slab', serif;
+ color: rgb(30, 30, 87);
+}
+
 
 li {
  margin-left: 50px;
  
 }
 
-.container {
- border-radius: 25px;
+
+.contenedor {
+ border-radius: 20px;
+ background-color: #a7967e78;
+}
+
+.contacto {
+ background-color: #142E54;
+ color: #eae6df ;
+ border-radius: 20px;
+}
+
+
+.ancla {
+ text-decoration: none;
+ color: #74a2e7;
+}
+
+.navbar {
+ background-color: #E8d5c7;
+}
+
+.titulo {
+ font-weight: bolder;
 }
