@@ -7,7 +7,7 @@
 
 li {
  margin-left: 50px;
- 
+
 }
 
 
@@ -24,8 +24,8 @@ li {
 
 
 .ancla {
- text-decoration: none;
- color: #74a2e7;
+ text-decoration: underline;
+ color: #e6b218;
 }
 
 .navbar {
